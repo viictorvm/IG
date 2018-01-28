@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iterator": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "fstream": "cpp",
+        "locale": "cpp",
+        "__split_buffer": "cpp",
+        "ostream": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "string_view": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "deque": "cpp"
+    }
+}
